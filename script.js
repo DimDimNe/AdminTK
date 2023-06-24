@@ -173,14 +173,14 @@ const data = {
             label:'Khách sạn',
             backgroundColor:"blue",
             borderColor:"blue",
-            data:[56,32,48,61,26,35],
+            data:[90,56,68,61,70,82],
             tension: 0.4,
         },
         {
             label:'Ẩm thực',
             backgroundColor:"red",
             borderColor:"red",
-            data:[15,20,37,84,75,79],
+            data:[60,70,58,72,63,65],
             tension: 0.4,
         },
         {
